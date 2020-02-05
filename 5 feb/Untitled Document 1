@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>HTML frames</title>
+</head>
+
+<frameset rows ="30%,50%,20%">
+<frameset cols=50%,50%>
+<frame src="">
+</frameset>
+<frame src="">
+</frameset>
+</html>
+
