@@ -1,5 +1,5 @@
 h1{
-	color:#DAA520;
+	color:#e29d1b;
 	font-style:bold;
 	font-family:Times New Roman;
 	font-size:40px; 
@@ -31,4 +31,10 @@ body{
 	background-image: url(/home/6CSE3/Desktop/cse177/img.jpg);
 	background-repeat:repeat;
 	background-attachment:scroll;
+}
+
+img{
+	border-style: double;
+	border-width: 15px 15px 15px 15px;
+	border-color: grey #F4A460 grey #F4A460;
 }
